@@ -1,0 +1,9 @@
+body {
+  display: flex !important;
+  flex-direction: column !important;
+  min-height: 100vh;
+}
+
+.main {
+  flex-grow: 1;
+}
